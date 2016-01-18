@@ -1,0 +1,45 @@
+jpg	4	1138002
+721525622429519055-1451523474	1	0
+zip	5	71867497
+810836270323190944-1451581932	1	0
+txt	12	1287
+pem	1	1521
+backup for generalpracticioner	1	0
+backup for pawelpaulkula	1	0
+pdf	6	87805944
+png	1	2634399
+black jack	1	0
+bubble_sort	1	0
+chess	1	0
+code for ppk	1	0
+mp4	1	203526183
+ini	1	282
+ico	1	5210
+rb	1	303
+flags test	1	0
+general practice optimized photos	1	0
+html-kickstart-master	1	0
+html	1	400
+koans	1	0
+kdbx	1	2542
+nowy folder	1	0
+nowy folder (2)	1	0
+odin_ruby	1	0
+pawel paul kula optimizes photos	1	0
+pawelpaulkula pre optimalization	1	0
+pokerduel	1	0
+pokerhand	1	0
+ppk	1	0
+lnk	4	4811
+preoptimized img for general practicioner	1	0
+project euler	1	0
+projects	1	0
+exe	1	94187623
+sql	1	2098
+scripts	1	0
+sqlite	1	0
+stanford database	1	0
+styles	1	0
+the_odin_project	1	0
+tic tac toe	1	0
+xml	1	6897
